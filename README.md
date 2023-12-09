@@ -19,7 +19,7 @@
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
-
+<br/>
  <div align="center"> 
   <a href="mailto:mdfajlerabby00@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -31,3 +31,15 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
+<br/>
+
+<h2 align="center"> 🪄Languages-Frameworks-Tools🪄 </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,mui,tailwind,javascript" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,nextj,svscode,github,figma,,git," /><br>
+</div>
+
+<br/>
+<hr/>
+
