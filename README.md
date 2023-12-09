@@ -4,19 +4,21 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=100&color=2CD0FF&background=001F3F&center=true&vCenter=true&multiline=true&random=false&width=1080&height=140&lines=Hi%2C+I'm+Md+Fajle+Rabby;---------------------------;%3C%3E+MERN+Stack+Developer+%3C%2F%3E" />
 </h1>
 
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate MERN Stack focused Front End Developer</h3>
 
 <br/>
 
 <div align="left">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+🚀 MERN Stack Enthusiast 🌐
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💡 Constantly learning and growing in web development
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🤝 Open to collaboration and eager to contribute
+
+🌟 Passionate about creating user-friendly interfaces
+
+🎮 Fun fact: Coding is my favorite game!
 
  </div>
 
