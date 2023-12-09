@@ -5,14 +5,14 @@
 </h1>
 <br/>
 <div>
-    <h3 align="center">About Me</h3>
+    <h3 align="left">🪄About Me</h3>
     <p>
         I'm a MERN-focused frontend developer, passionate about creating modern and user-friendly web experiences. I love using my skills in MongoDB, Express.js, React, and Node.js to build responsive and dynamic applications. My goal is to continuously elevate my proficiency in web development, contributing to exciting projects and expanding my capabilities. I'm enthusiastic about the journey ahead, embracing every opportunity for learning and professional advancement.
 
     </p>
 </div>
 <br/>
-<h3 align="center">A passionate MERN Stack focused Front End Developer</h3>
+<h3 align="left">🪄A passionate MERN Stack focused Front End Developer</h3>
 
 <br/>
 <div align="left">
