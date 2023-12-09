@@ -64,7 +64,22 @@
   <h5> Description: </h5>
     The forum website boasts a well-structured architecture with key features such as user authentication, dynamic content loading, user profile management, an admin dashboard with privileged access, and interactive content creation capabilities.
   <br/>
-
+</div>
+<br/>
+<div align=left>
+  <h3>Study Circle</h3>
+ <h5>Live Link: https://study-circle-65963.web.app/</h5>
+  <h5> Description: </h5>
+    React-based front-end routing configuration using react-router-dom, facilitating seamless navigation and authentication for an educational platform with features such as assignment creation, tracking, and detailed assignment views.
+  <br/>
+</div>
+<br/>
+<div align=left>
+  <h3>Reef Techno (Tech shop project)</h3>
+ <h5>Live Link: https://reef-techno.web.app/</h5>
+  <h5> Description: </h5>
+    A comprehensive tech shop project that offers a range of features to enhance your online shopping experience.
+  <br/>
 </div>
 
 
