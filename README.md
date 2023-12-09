@@ -60,8 +60,9 @@
 <br>
 <div align=left>
   <h3>Vista Forum</h3>
-  ### Live Link: https://vista-forum.web.app/ <br/>
-    ### Description: The forum website boasts a well-structured architecture with key features such as user authentication, dynamic content loading, user profile management, an admin dashboard with privileged access, and interactive content creation capabilities.
+ <h5>Live Link: https://vista-forum.web.app/</h5> <br/>
+  <h5> Description: </h5> <br/>
+    The forum website boasts a well-structured architecture with key features such as user authentication, dynamic content loading, user profile management, an admin dashboard with privileged access, and interactive content creation capabilities.
   <br/>
 
 </div>
