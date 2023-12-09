@@ -23,10 +23,10 @@
 <h2 align="center"> Statistics </h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=rabby9898&theme=react&mode=weekly" alt="streak stats"/>
+  <img width=400 src="https://streak-stats.demolab.com?user=rabby9898&theme=react&mode=weekly" alt="streak stats"/>
   <br/>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=rabby9898" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=rabby9898&show_icons=true&theme=radical" alt="top langs" />
+  <img width=380 src="https://github-readme-stats.vercel.app/api?username=rabby9898" alt="readme stats" />
+  <img width=380 align="center" src="https://github-readme-stats.vercel.app/api?username=rabby9898&show_icons=true&theme=radical" alt="top langs" />
 </div>
 
 
