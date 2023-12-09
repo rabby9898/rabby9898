@@ -27,7 +27,7 @@
 
  </div>
 
-<h2 align="center"> <Statistics/> </h2>
+<h2 align="center"> 🌟Statistics🌟 </h2>
 <br>
 <div align=center>
     <img width=380 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabby9898&show_icons=true&theme=tokyonight" alt="top-longs" />
