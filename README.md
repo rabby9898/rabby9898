@@ -55,6 +55,10 @@
 
 <h2 align="center"> 🪄Languages-Frameworks-Tools🪄 </h2>
 <br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,vscode,github,git,figma,nextjs" />
+</div>
 
 <h2 align="center"> 🌟Latest projects🌟 </h2>
 <br>
