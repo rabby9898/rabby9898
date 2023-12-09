@@ -55,11 +55,15 @@
 
 <h2 align="center"> 🪄Languages-Frameworks-Tools🪄 </h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mui,tailwind,javascript,react" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,nextjs,vscode,github,figma,git" />
+
+<h2 align="center"> 🌟Latest projects🌟 </h2>
+<br>
+<div align=left>
+  <h3>Vista Forum</h3>
+    Live Link: https://vista-forum.web.app/
+    ###Description: The forum website boasts a well-structured architecture with key features such as user authentication, dynamic content loading, user profile management, an admin dashboard with privileged access, and interactive content creation capabilities.
+  <br/>
+
 </div>
 
-<br/>
-<hr/>
 
