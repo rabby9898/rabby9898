@@ -24,14 +24,9 @@
 <br>
 <div align=center>
     <img width=380 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabby9898&show_icons=true&theme=tokyonight" alt="top-longs" />
- 
-    </div>
   <br/>
-  <div align=center>
        <img width=400 src="https://streak-stats.demolab.com?user=rabby9898&theme=react&mode=weekly" alt="streak stats"/>
   <img width=380 src="https://github-readme-stats.vercel.app/api?username=rabby9898&show_icons=true&theme=tokyonight" alt="readme stats" />
-     
-  
 </div>
 
 
