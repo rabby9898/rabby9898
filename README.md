@@ -27,8 +27,8 @@
     </div>
   <br/>
   <div align=center>
-  <img width=380 src="https://github-readme-stats.vercel.app/api?username=rabby9898" alt="readme stats" />
-  <img width=380 src="https://github-readme-stats.vercel.app/api?username=rabby9898&show_icons=true&theme=gruvbox" alt="top-longs" />
+  <img width=380 src="https://github-readme-stats.vercel.app/api?username=rabby9898&show_icons=true&theme=dracula" alt="readme stats" />
+  <img width=380 src="https://github-readme-stats.vercel.app/api?username=rabby9898&show_icons=true&theme=dracula" alt="top-longs" />
 </div>
 
 
