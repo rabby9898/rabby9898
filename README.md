@@ -59,9 +59,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,vscode,github,git,figma,nextjs" />
 </div>
-
+<br/>
 <h2 align="center"> 🌟Latest projects🌟 </h2>
-<br>
+
 <div align=left>
   <h3>Vista Forum</h3>
  <h5>Live Link: https://vista-forum.web.app/</h5>
