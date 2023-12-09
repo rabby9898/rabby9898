@@ -3,11 +3,18 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=100&color=2CD0FF&background=001F3F&center=true&vCenter=true&multiline=true&random=false&width=1080&height=140&lines=Hi%2C+I'm+Md+Fajle+Rabby;---------------------------;%3C%3E+MERN+Stack+Developer+%3C%2F%3E" />
 </h1>
+<br/>
+<div>
+    <h3 align="center">About Me</h3>
+    <p>
+        I'm a MERN-focused frontend developer, passionate about creating modern and user-friendly web experiences. I love using my skills in MongoDB, Express.js, React, and Node.js to build responsive and dynamic applications. My goal is to continuously elevate my proficiency in web development, contributing to exciting projects and expanding my capabilities. I'm enthusiastic about the journey ahead, embracing every opportunity for learning and professional advancement.
 
+    </p>
+</div>
+<br/>
 <h3 align="center">A passionate MERN Stack focused Front End Developer</h3>
 
 <br/>
-
 <div align="left">
  
 🚀 MERN Stack Enthusiast 🌐
